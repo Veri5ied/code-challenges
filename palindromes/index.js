@@ -5,6 +5,8 @@ function palindrome(str) {
   } else {
     return false;
   }
+
+  //return str === reversed;
 }
 
 console.log(palindrome("racecar"));
